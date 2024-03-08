@@ -11,31 +11,25 @@ Live Dashboard # https://app.powerbi.com/view?r=eyJrIjoiMTY0MTBmZTgtZTIzYS00NjVj
 
 AtliQ Mart is a retail giant having 50 supermarkets across 10 cities of Southern India.In this analysis I scrutenized the effectiveness of promotional campaign during Diwali 2023 & Sankranti 2024 .It sells 15 products under 5 categories.
 
+Key Objectives:-
+*Evaluate campaign performance.
+*Identifying the top performing cities.
+*Identifying the top performing products.
+*Effectiveness of promotion types.
+*Provide insights for informed decission making .
 
 
 Data Overview:-
-
 The data contains 4 tables.
-
 ➡ Dim_stores
-
 ➡Dim_products
-
 ➡Dim_campaigns
-
 ➡Fact_events
 
-
-
 Tools Used-
-
 ➡MySQL
-
 ➡POWER BI
-
 ➡CANVA
-
-
 
 Highlights of my findings-
 
