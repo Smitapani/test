@@ -2,6 +2,7 @@ Resume project challange#9
 Effectiveness of promotional campaign on Revenue & Unit Sold for AtliQ Mart.
 
 Live Dashboard # https://app.powerbi.com/view?r=eyJrIjoiMTY0MTBmZTgtZTIzYS00NjVjLTg1OGEtNzgxZGFhZGM1NGJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+My presentation:-
 https://www.canva.com/design/DAF-nW4xh5Y/qvqcdiDSNVlhSRDb8wUBBw/view?utm_content=DAF-nW4xh5Y&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 
